@@ -13,6 +13,7 @@
 - https://www.flaticon.com/ - 무료 아이콘. 검색 지원. 컬러 아이콘 위주
 - https://m.blog.naver.com/artbank - 무료 아이콘. 전체(패키지) 다운로드 가능
 - https://iconduck.com/ - 108,210 free open source icons & illustrations
+- https://feathericons.com/ - Simply beautiful open source icons
 
 
 ## linux
